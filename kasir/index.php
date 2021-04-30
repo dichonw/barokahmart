@@ -1,0 +1,1 @@
+<script language="JavaScript">document.location='main/?menu=home'</script>    
